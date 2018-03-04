@@ -1,0 +1,18 @@
+Package: ldid
+Version: 2:2.0-1
+Architecture: iphoneos-arm
+Maintainer: p0mum <p0mum@protonmail.com>
+Depends: cy+cpu.arm64
+Replaces: ldid (<= 1:1.2.1)
+Filename: ./deb/ldid_2.0.deb
+Size: 26144
+MD5sum: 477268b3e9d840f400e8e6360d1095ae
+SHA1: cedb1776934ff07ff66789056bcd4c1e022abad0
+SHA256: 93a161ca46f66098341843bb8cff481e7d18165ff9a4073a5f2294ea8dd84114
+Section: Development
+Priority: optional
+Description: Pseudo-codesign Mach-O files for arm64. Original tool by Saurik.
+Tag: purpose::console, role::developer
+Author: p0mum <p0mum@protonmail.com>
+Name: Link Identity Editor
+
